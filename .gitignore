@@ -1,0 +1,41 @@
+# Maven
+/target/
+/test-classes/
+/generated-sources/
+
+# IntelliJ
+/.idea/
+/*.iml
+/out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+hs_err_pid*
+*~
+*.tmp
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven extras
+dependency-reduced-pom.xml
+release.properties
+
+# Optional (uncommitted local maven repo or wrapper if you don't commit it)
+# /.m2/
+# /.mvn/
