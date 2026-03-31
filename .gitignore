@@ -39,3 +39,4 @@ release.properties
 # Optional (uncommitted local maven repo or wrapper if you don't commit it)
 # /.m2/
 # /.mvn/
+tasks.md
